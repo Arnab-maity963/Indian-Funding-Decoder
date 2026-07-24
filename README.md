@@ -1,4 +1,5 @@
 # Indian-Funding-Decoder
+# Project Overvies 
 Indian-Startups-Funding-Analysis/
 │
 ├── data/
@@ -22,7 +23,6 @@ Indian-Startups-Funding-Analysis/
 ├── README.md
 └── LICENSE
 
-Project Overview
 
 This project analyzes a real-world dataset containing funding information for Indian startups. The dataset contains inconsistent city names, industry labels, funding stages, different date formats, duplicate records, and funding amounts stored as strings.
 
